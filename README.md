@@ -5,5 +5,9 @@ You can set it via Harp with:
 ```console
 harp init src --boilerplate seekr/tachyons-harp-browsersync
 ```
+To run server with Browsersync:
 
-Then, success.
+```console
+cd src
+sh hsbs
+```
